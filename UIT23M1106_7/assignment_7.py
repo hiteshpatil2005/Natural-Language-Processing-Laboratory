@@ -1,3 +1,11 @@
+'''
+Name: Patil Hitesh Dattatraya
+Class: Btech IT 
+Batch: B2
+Roll:  106
+PRN:   UIT23M1106
+Assignment 7: Sentiment Analysis using Machine Learning
+'''
 """
 Assignment 7: Sentiment Analysis using Machine Learning
 - Binary sentiment classifier (positive/negative) on customer product reviews

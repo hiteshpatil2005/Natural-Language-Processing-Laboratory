@@ -1,3 +1,11 @@
+'''
+Name: Patil Hitesh Dattatraya
+Class: Btech IT 
+Batch: B2
+Roll:  106
+PRN:   UIT23M1106
+Assignment 6: Named Entity Recognition (NER)
+'''
 """
 Assignment 6: Named Entity Recognition (NER)
 - spaCy NER pipeline & displaCy entity visualization logic
