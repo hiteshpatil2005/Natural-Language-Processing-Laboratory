@@ -1,0 +1,22 @@
+[
+    {
+        "id": "DOC1",
+        "class": "Technology",
+        "content": "Artificial intelligence and machine learning are used in modern technology."
+    },
+    {
+        "id": "DOC2",
+        "class": "Technology",
+        "content": "Machine learning and artificial intelligence help in data analysis."
+    },
+    {
+        "id": "DOC3",
+        "class": "Environment",
+        "content": "Environmental protection includes clean energy and reducing pollution."
+    },
+    {
+        "id": "DOC4",
+        "class": "Environment",
+        "content": "Clean energy helps reduce pollution and protect the environment."
+    }
+]

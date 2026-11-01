@@ -1,0 +1,38 @@
+[
+    {
+        "strategy": "Zero-Shot",
+        "prompt_characters": 656,
+        "has_task_instructions": true,
+        "has_output_guidance": true,
+        "has_examples": false,
+        "has_missing_information_rule": true,
+        "has_evidence_guidance": false
+    },
+    {
+        "strategy": "One-Shot",
+        "prompt_characters": 807,
+        "has_task_instructions": true,
+        "has_output_guidance": false,
+        "has_examples": true,
+        "has_missing_information_rule": false,
+        "has_evidence_guidance": false
+    },
+    {
+        "strategy": "Few-Shot",
+        "prompt_characters": 1176,
+        "has_task_instructions": true,
+        "has_output_guidance": true,
+        "has_examples": true,
+        "has_missing_information_rule": true,
+        "has_evidence_guidance": false
+    },
+    {
+        "strategy": "Structured CoT",
+        "prompt_characters": 1136,
+        "has_task_instructions": true,
+        "has_output_guidance": true,
+        "has_examples": false,
+        "has_missing_information_rule": true,
+        "has_evidence_guidance": true
+    }
+]
